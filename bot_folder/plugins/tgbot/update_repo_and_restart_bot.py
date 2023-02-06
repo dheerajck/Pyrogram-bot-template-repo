@@ -6,6 +6,7 @@ from pyrogram import Client, filters
 
 from shared_config import shared_object
 
+
 SUPER_ADMIN = shared_object.clients["super_admin"]
 
 
