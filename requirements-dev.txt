@@ -1,5 +1,6 @@
 Pyrogram==2.0.97
 TgCrypto==1.2.5
+django
 uvloop
 loguru
 python-dotenv

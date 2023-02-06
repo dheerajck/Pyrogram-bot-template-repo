@@ -12,6 +12,7 @@ v/
 
 # Sqlite db's
 *.db
+db.sqlite3
 
 # Log files
 *.log
@@ -22,3 +23,6 @@ v/
 # Pyrogram session files
 *.session
 *.session-journal
+
+# Django db migrations
+db/migrations/
